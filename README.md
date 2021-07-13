@@ -1,2 +1,2 @@
 # Textbook-Question-Answering
-The Textbook Question Answering
+Textbook Question Answering
