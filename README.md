@@ -5,6 +5,8 @@ This is the official implementation for **MoCA**, which focuses on the task of T
 **MoCA: Incorporating Multi-stage Domain Pretraining and Cross-guided Multimodal Attention for Textbook Question Answering** <br>
 (*Under Review*)  [[paper]](https://arxiv.org/abs/2112.02839)
 
+## External Corpus and Model Checkpoints
+For the external corpus and some important checkpoints, please download them from here.
 
 ## Main Model
 
