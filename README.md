@@ -6,7 +6,7 @@ This is the official implementation for **MoCA**, which focuses on the task of T
 (*Under Review*)  [[paper]](https://arxiv.org/abs/2112.02839)
 
 ## External Corpus and Model Checkpoints
-For the external corpus and some important checkpoints, please download them from here.
+For the external corpus and some important checkpoints, please download them from [here](https://drive.google.com/drive/folders/1dH1d9Mfzro3TatcfxCU2z9Go7v-8CxCQ?usp=share_link).
 
 ## Main Model
 
